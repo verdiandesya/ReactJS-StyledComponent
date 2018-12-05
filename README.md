@@ -1,5 +1,5 @@
 
 # ReactJS with StyledComponent
 
-Tampilan Webpage tersebut dengan menggunakan tools React Styled Components
+Tampilan Webpage dengan menggunakan tools React Styled Components
 
